@@ -1,0 +1,2 @@
+# HRCourseClient
+利用jsoup爬取华软教务系统数据制作一个简易的华软android课表
