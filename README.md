@@ -1,6 +1,3 @@
----
-typora-copy-images-to: screenshots
----
 
 # HRCourseClient
 #### 利用jsoup爬取华软教务系统数据制作一个简易的华软android课表
@@ -9,6 +6,6 @@ typora-copy-images-to: screenshots
 
 效果截图：
 
-![登录](C:\Users\zhuang\Desktop\HRCourseClient\screenshots\登录.JPG)
+![登录](https://github.com/halogh/HRCourseClient/blob/master/screenshots/%E7%99%BB%E5%BD%95.JPG)
 
-![课表](C:\Users\zhuang\Desktop\HRCourseClient\screenshots\课表.JPG)
+![课表](https://github.com/halogh/HRCourseClient/blob/master/screenshots/%E8%AF%BE%E8%A1%A8.JPG)
