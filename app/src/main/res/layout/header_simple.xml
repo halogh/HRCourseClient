@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/app_white_slight">
+
+    <TextView
+        android:id="@+id/id_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="课程表"
+        android:layout_centerInParent="true"
+        android:textColor="@color/app_course_textcolor_blue"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/id_more"
+        android:text="功能"
+        android:layout_alignParentRight="true"
+        android:textColor="@color/app_gold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+</RelativeLayout>

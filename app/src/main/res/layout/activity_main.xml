@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <Button
+        android:id="@+id/id_btn0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="简单的案例" />
+
+    <Button
+        android:id="@+id/id_btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="基础能力" />
+
+    <Button
+        android:id="@+id/id_btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义属性" />
+
+    <Button
+        android:id="@+id/id_btn3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="颜色池示例" />
+
+    <Button
+        android:id="@+id/id_btn4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="课程项样式" />
+
+    <Button
+        android:id="@+id/id_btn12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="自定义宽度" />
+
+    <Button
+        android:id="@+id/id_btn5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="替换滚动布局" />
+
+    <Button
+        android:id="@+id/id_btn6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="侧边栏样式" />
+
+    <Button
+        android:id="@+id/id_btn7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="日期栏样式" />
+    <Button
+        android:id="@+id/id_btn8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="工具类" />
+
+    <Button
+        android:id="@+id/id_btn9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="附加额外数据" />
+
+    <Button
+        android:id="@+id/id_btn10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="旗标布局（空白格子点击）" />
+    <Button
+        android:id="@+id/id_btn11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="日期延迟显示（开学时间设置）" />
+
+    <Button
+        android:id="@+id/id_btn13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="课表设置项（本地配置加载、导出）" />
+    </LinearLayout>
+</ScrollView>
