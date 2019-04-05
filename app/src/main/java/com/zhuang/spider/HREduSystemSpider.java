@@ -373,29 +373,6 @@ public class HREduSystemSpider {
 //		return exams;
 //	}
 
-//	public static void main(String[] args) throws IOException {
-//		String name = "1640129305";
-//		String password = "16440513101465";
-//		String url = "http://class.sise.com.cn:7001/sise/module/student_states/student_select_class/main.jsp";
-////		System.out.println(getCookies(name,password));
-////		System.out.println(HREduSystemSpider.getContent(name,password,url));
-//
-//		/*
-//		获取某一年某一学期某一星期课程
-//		* */
-//		String[][] course = getCourse(name,password,2018,1,"14");
-//		for (int i = 0; i < course.length; i++) {
-//			for (int j = 0; j <course[i].length ; j++) {
-////				System.out.print(course[i][j]+" ");
-//			}
-////			System.out.println();
-//		}
-////		List<Course>  courses =HREduSystemSpider.getUsualScore(name,password,2017,1) ;
-////		for (Course course : courses) {
-////			System.out.println(course.toString());
-////		}
-////		StudentInfo info = getMyMessage(name,password);
-////		System.out.println(info.toString());
-//	}
+
 
 }
