@@ -112,7 +112,7 @@ public class BaseFuncActivity extends AppCompatActivity implements View.OnClickL
 
         //设置周次选择属性
         mWeekView.source(mySubjects)
-                .curWeek(1)
+                .curWeek(getLocalWeek())
                 .callback(new IWeekView.OnWeekItemClickedListener() {
                     @Override
                     public void onWeekClicked(int week) {
